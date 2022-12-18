@@ -5,7 +5,6 @@
 
 # python
 *.pyc
-*.ipynb
 
 # cython
 *.so
