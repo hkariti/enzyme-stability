@@ -1,0 +1,19 @@
+.DS_Store
+
+# vim
+.*.swp
+
+# python
+*.pyc
+*.ipynb
+
+# cython
+*.so
+*.html
+build
+
+# data files
+data_files/
+output/
+*.mcool
+*.npy
